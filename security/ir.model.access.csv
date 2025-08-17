@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_website_pos_bridge_admin,website_pos_bridge_admin,model_sale_order,base.group_system,1,1,1,1
